@@ -11,3 +11,4 @@ jinja2
 paramiko==2.7.2
 sphinx-toolbox==2.11.2
 enum-tools==0.6.4
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
